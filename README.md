@@ -5,7 +5,7 @@
 
 - [Felipe Shinkae](https://github.com/fshinkae)
 - [Fabio Henrique Massucatto](https://github.com/fabiomassucatto)
-- - [Heitor Santos Cortes](https://github.com/heitorpcrl)
+- [Erick da Costa Souza](https://github.com/Erickeffre1332)
 
 ### Descrição
 
